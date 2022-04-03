@@ -23,6 +23,7 @@ Additional items may be required as the project develops. At this time there are
 
 # URL
 
+https://jervansahd.github.io/daily-planner/
 
 # Mock Up
 <img src="./assets/images/05-third-party-apis-homework-demo.gif">
